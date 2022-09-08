@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathikUmbarji
-- 👀 I’m interested in gaming development and machine learning.
-- 🌱 I’m currently learning 2D gaming development and a bit of ML
+- 👀 I’m interested in web development and machine learning.
+- 🌱 I’m currently learning Machine Learning and Web development.
 
 
 <!---
