@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathik Umbarji</h1>
-<h3 align="center">I'm learning to code</h3>
+<h3 align="center">I code sometimes</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
